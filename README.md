@@ -1,6 +1,6 @@
-![alt text](https://www.touchpoint.com/wp-content/uploads/2023/02/5.-Customer-churn-article.png)
-
 # Customer Disengagement Forecaster
+
+![alt text](https://www.touchpoint.com/wp-content/uploads/2023/02/5.-Customer-churn-article.png)
 
 ## Overview
 
