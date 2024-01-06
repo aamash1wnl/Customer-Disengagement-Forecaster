@@ -12,6 +12,7 @@ The dataset consists of various customer attributes, including:
 - Services subscribed (phone, multiple lines, internet, online security, online backup, device protection, tech support, streaming TV and movies)
 - Customer account information (tenure, contract type, payment method, paperless billing, monthly charges, total charges)
 - Churn status (customers who left within the last month)
+Link to the dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Code Structure
 
@@ -32,7 +33,7 @@ The project is divided into the following sections:
    - Create scatter plots and count plots to analyze customer behavior.
 
 4. **Predictive Modeling:**
-   - Employ predictive models like Single Decision Tree, Random Forest, AdaBoost, and Gradient Boosting.
+   - Employ predictive models like Single Decision Tree, Random Forest and, AdaBoost.
    - Train the models, make predictions, and evaluate their performance using confusion matrices and classification reports.
    - Assess feature importance in the decision-making process.
 
