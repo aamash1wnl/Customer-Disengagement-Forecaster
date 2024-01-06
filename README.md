@@ -12,6 +12,7 @@ The dataset consists of various customer attributes, including:
 - Services subscribed (phone, multiple lines, internet, online security, online backup, device protection, tech support, streaming TV and movies)
 - Customer account information (tenure, contract type, payment method, paperless billing, monthly charges, total charges)
 - Churn status (customers who left within the last month)
+
 Link to the dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Code Structure
